@@ -1,6 +1,6 @@
 # 🚀 Ollama Subagenten! Modell-Installationsanleitung & Übersicht
 
-Diese Übersicht enthält alle empfohlenen KI-Modelle für **Pandora Code** Subagenten, optimiert für ein System mit **16 GB RAM und 4 GB VRAM** (z. B. HP Pavilion).
+Diese Übersicht enthält alle empfohlenen KI-Modelle als Subagenten.
 
 ---
 
