@@ -68,8 +68,6 @@ Der Installer läuft direkt aus dem Quellcode. Wer lieber ein eigenständiges Pr
 ### Aus dem Quellcode starten
 
 ```bash
-git clone https://github.com/bosancero85/Ollama-Models-Libary-and-Installer-Mac-Linux-Win.git
-cd ollama_modell_installer_source
 pip install -r requirements-runtime.txt
 python ollama_model_installer.py
 ```
